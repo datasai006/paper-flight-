@@ -40,7 +40,7 @@ $mail->Port = 587; // TCP port to connect to
 
 // Gmail username and password
 $mail->Username = 'datasai006@gmail.com';
-$mail->Password = 'ckuf pfxt lmzt tiuo';
+$mail->Password = 'prsi wpea drsd ebma';
 
 // Sender and recipient
 $mail->setFrom($email, $firstName . ' ' . $lastName);
